@@ -1,0 +1,10 @@
+Các câu lệnh khởi tạo local repository
+- git init 
+- git add index.html ( đẩy thư mục lên)
+-git add . >> đẩy hết các file có trong thư mục local repository lên staging area
+
+Kiểm tra các file đang nằm trên stagin area
+-git status
+
+lệnh tạo ra một commit (lịch sử phiên bản)
+-git comit -m "nội dung tin nhắn"
